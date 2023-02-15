@@ -1,2 +1,2 @@
 # ds-judge-frontend
-Dongshan DSCPC Online Judge with USSR
+Dongshan DSCPC Online Judge
